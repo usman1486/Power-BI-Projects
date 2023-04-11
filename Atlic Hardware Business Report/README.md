@@ -3,10 +3,12 @@ Atlantic Inc is a business organization having 300+ branches of its store in all
 
 Approach
 Load MySQL database into power Bi and perform Extract Load and transformation on data 
+
 •	Handle missing values
 •	Currency conversion (USD TO INR in different Years)
 •	Remove negative values Deal with the duplicate data
 •	Cross verifies Data validation by running SQL Quires
+
 
 Conclusion
 Generated a beautiful dashboard for the business development team to take insights of overall business in few minutes in a simplest and easiest possible way.
